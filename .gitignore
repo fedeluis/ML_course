@@ -1,0 +1,2 @@
+# excluding notebooks checkpoints
+lab/.ipynb_checkpoints/
